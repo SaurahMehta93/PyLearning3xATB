@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3e489c6-7ee7-4d8c-81bb-4f5ba8f96e38" name="Changes" comment="git remote add origin https://github.com/SaurahMehta93/PyLearning3xATB.git&#10;git branch -M main&#10;git push -u origin main">
-      <change beforePath="$PROJECT_DIR$/01_03Jun2024/Lab001.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_03Jun2024/Lab001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_03Jun2024/Lab002.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +31,9 @@
   "associatedIndex": 5
 }]]></component>
   <component name="ProjectId" id="2hNdyQKwMYmjYBIhKSibORBcTlv" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -72,7 +74,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717439491927</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="git remote add origin https://github.com/SaurahMehta93/PyLearning3xATB.git&#10;git branch -M main&#10;git push -u origin main">
+      <option name="closed" value="true" />
+      <created>1717439565953</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717439565953</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
