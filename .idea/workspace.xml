@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3e489c6-7ee7-4d8c-81bb-4f5ba8f96e38" name="Changes" comment="Added new file">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_05Jun2026/Lab003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_05Jun2026/Lab004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_05Jun2026/Lab005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_05Jun2026/Lab006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_05Jun2026/Lab007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_05Jun2026/Lab008.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +21,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -59,6 +60,7 @@
     "Python.Lab005_program.executor": "Run",
     "Python.Lab006.executor": "Run",
     "Python.Lab007.executor": "Run",
+    "Python.Lab008.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -139,7 +141,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717439649136</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added new file">
+      <option name="closed" value="true" />
+      <created>1717555459483</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717555459483</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
