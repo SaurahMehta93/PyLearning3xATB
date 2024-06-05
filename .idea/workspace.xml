@@ -4,32 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3e489c6-7ee7-4d8c-81bb-4f5ba8f96e38" name="Changes" comment="git remote add origin https://github.com/SaurahMehta93/PyLearning3xATB.git&#10;git branch -M main&#10;git push -u origin main">
-      <change afterPath="$PROJECT_DIR$/01_03Jun2024/Lab002.py" afterDir="false" />
+    <list default="true" id="f3e489c6-7ee7-4d8c-81bb-4f5ba8f96e38" name="Changes" comment="Added new file">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_05Jun2026/Lab003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_05Jun2026/Lab004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_05Jun2026/Lab005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_05Jun2026/Lab006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_05Jun2026/Lab007.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "SaurahMehta93"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SaurahMehta93&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/SaurahMehta93/PyLearning3xATB.git",
-    "accountId": "d53d2a3d-7395-4dc0-b313-783c2f589609"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SaurahMehta93/PyLearning3xATB.git&quot;,
+    &quot;accountId&quot;: &quot;d53d2a3d-7395-4dc0-b313-783c2f589609&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2hNdyQKwMYmjYBIhKSibORBcTlv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -41,14 +54,50 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Lab001.executor": "Run",
+    "Python.Lab003.executor": "Run",
+    "Python.Lab004.executor": "Run",
+    "Python.Lab005_program.executor": "Run",
+    "Python.Lab006.executor": "Run",
+    "Python.Lab007.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\python_project\PyLearning3xATB" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Lab003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyLearning3xATB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_05Jun2026" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_05Jun2026/Lab003.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Lab003" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -82,11 +131,20 @@
       <option name="project" value="LOCAL" />
       <updated>1717439565953</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added new file">
+      <option name="closed" value="true" />
+      <created>1717439649136</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717439649136</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git remote add origin https://github.com/SaurahMehta93/PyLearning3xATB.git&#10;git branch -M main&#10;git push -u origin main" />
-    <option name="LAST_COMMIT_MESSAGE" value="git remote add origin https://github.com/SaurahMehta93/PyLearning3xATB.git&#10;git branch -M main&#10;git push -u origin main" />
+    <MESSAGE value="Added new file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new file" />
   </component>
 </project>
