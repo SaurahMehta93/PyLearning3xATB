@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3e489c6-7ee7-4d8c-81bb-4f5ba8f96e38" name="Changes" comment="Added new file">
-      <change afterPath="$PROJECT_DIR$/02_05Jun2026/Lab008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_10Jun2024/Lab025.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_10Jun2024/Lab026.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_10Jun2024/Lab027.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_10Jun2024/Lab028.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_10Jun2024/Lab029.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_10Jun2024/Lab030.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +66,9 @@
     "Python.Lab006.executor": "Run",
     "Python.Lab007.executor": "Run",
     "Python.Lab008.executor": "Run",
+    "Python.Lab027.executor": "Run",
+    "Python.Lab028.executor": "Run",
+    "Python.Lab029.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -149,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717555459483</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added new file">
+      <option name="closed" value="true" />
+      <created>1717555660726</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717555660726</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
