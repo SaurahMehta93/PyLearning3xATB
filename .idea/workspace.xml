@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3e489c6-7ee7-4d8c-81bb-4f5ba8f96e38" name="Changes" comment="Added new file">
-      <change afterPath="$PROJECT_DIR$/04_10Jun2024/Lab033.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_10Jun2024/Lab034.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_10Jun2024/Task_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_10Jun2024/Task_02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_10Jun2024/Lab031.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_10Jun2024/Lab031.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_10Jun2024/Lab032.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_10Jun2024/Lab032.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +70,8 @@
     "Python.Lab032.executor": "Run",
     "Python.Lab033.executor": "Run",
     "Python.Lab034.executor": "Run",
+    "Python.Task_01.executor": "Run",
+    "Python.Task_02.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -184,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717985784961</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added new file">
+      <option name="closed" value="true" />
+      <created>1717986662872</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1717986662872</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
