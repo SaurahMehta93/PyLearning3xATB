@@ -5,8 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3e489c6-7ee7-4d8c-81bb-4f5ba8f96e38" name="Changes" comment="Added new file">
-      <change afterPath="$PROJECT_DIR$/Task_10Jun2024/Task_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_10Jun2024/Task_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_12Jun2026/Lab035.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_12Jun2026/Lab036.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_12Jun2026/Lab037.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_12Jun2026/Lab038.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_12Jun2026/Lab040.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_12Jun2026/Lab041.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_12Jun2026/Lab042.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_12Jun2026/Lab043.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_12Jun2026/Lab044.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_12Jun2024/Task_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_12Jun2024/Task_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_12Jun2024/Task_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_12Jun2024/Task_04.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,8 +81,19 @@
     "Python.Lab032.executor": "Run",
     "Python.Lab033.executor": "Run",
     "Python.Lab034.executor": "Run",
+    "Python.Lab035.executor": "Run",
+    "Python.Lab036.executor": "Run",
+    "Python.Lab037.executor": "Run",
+    "Python.Lab038.executor": "Run",
+    "Python.Lab040.executor": "Run",
+    "Python.Lab041.executor": "Run",
+    "Python.Lab042.executor": "Run",
+    "Python.Lab043.executor": "Run",
+    "Python.Lab044.executor": "Run",
     "Python.Task_01.executor": "Run",
     "Python.Task_02.executor": "Run",
+    "Python.Task_03.executor": "Run",
+    "Python.Task_04.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -192,7 +214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717986662872</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added new file">
+      <option name="closed" value="true" />
+      <created>1717987726051</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1717987726051</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
