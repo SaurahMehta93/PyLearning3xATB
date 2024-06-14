@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3e489c6-7ee7-4d8c-81bb-4f5ba8f96e38" name="Changes" comment="Added new file">
-      <change afterPath="$PROJECT_DIR$/05_12Jun2026/Lab035.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_12Jun2026/Lab036.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_12Jun2026/Lab037.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_12Jun2026/Lab038.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_12Jun2026/Lab040.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_12Jun2026/Lab041.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_12Jun2026/Lab042.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_12Jun2026/Lab043.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_12Jun2026/Lab044.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_12Jun2024/Task_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_12Jun2024/Task_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_12Jun2024/Task_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_12Jun2024/Task_04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f3e489c6-7ee7-4d8c-81bb-4f5ba8f96e38" name="Changes" comment="Added new file for Task on 12Jun2024" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -222,12 +207,29 @@
       <option name="project" value="LOCAL" />
       <updated>1717987726051</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Added new file">
+      <option name="closed" value="true" />
+      <created>1718160246314</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1718160246314</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added new file for Task on 12Jun2024">
+      <option name="closed" value="true" />
+      <created>1718160268666</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1718160268666</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git remote add origin https://github.com/SaurahMehta93/PyLearning3xATB.git&#10;git branch -M main&#10;git push -u origin main" />
     <MESSAGE value="Added new file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added new file" />
+    <MESSAGE value="Added new file for Task on 12Jun2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new file for Task on 12Jun2024" />
   </component>
 </project>
