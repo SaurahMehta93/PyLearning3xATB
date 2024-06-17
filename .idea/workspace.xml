@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3e489c6-7ee7-4d8c-81bb-4f5ba8f96e38" name="Changes" comment="Added new file">
-      <change afterPath="$PROJECT_DIR$/07_17062024/Lab054.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_17062024/Lab055.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_17062024/Lab056.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_17062024/Lab057.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_17062024/Lab058.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_17062024/Lab059.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_17062024/Lab060.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_17062024/Lab061.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_17062024/Lab062.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_17Jun2024/Task_01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,7 +102,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "reference.idesettings.debugger.python"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -150,7 +142,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+        <option value="bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14" />
       </set>
     </attachedChunks>
   </component>
@@ -267,7 +259,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718332439728</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Added new file">
+      <option name="closed" value="true" />
+      <created>1718592040173</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1718592040173</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Added new file">
+      <option name="closed" value="true" />
+      <created>1718592081314</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1718592081314</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
