@@ -5,17 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3e489c6-7ee7-4d8c-81bb-4f5ba8f96e38" name="Changes" comment="Added new file">
-      <change afterPath="$PROJECT_DIR$/06_14Jun2026/Lab045.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_14Jun2026/Lab046.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_14Jun2026/Lab047.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_14Jun2026/Lab048.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_14Jun2026/Lab049.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_14Jun2026/Lab050.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_14Jun2026/Lab051.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_14Jun2026/Lab052.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_14Jun2026/Lab053.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_14Jun2026/Lab054.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_14Jun2026/Lab055.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_17062024/Lab054.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_17062024/Lab055.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_17062024/Lab056.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_17062024/Lab057.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_17062024/Lab058.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_17062024/Lab059.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_17062024/Lab060.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_17062024/Lab061.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_17062024/Lab062.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,6 +95,14 @@
     "Python.Lab051.executor": "Run",
     "Python.Lab052.executor": "Run",
     "Python.Lab053.executor": "Run",
+    "Python.Lab054.executor": "Run",
+    "Python.Lab055.executor": "Run",
+    "Python.Lab056.executor": "Run",
+    "Python.Lab057.executor": "Run",
+    "Python.Lab058.executor": "Run",
+    "Python.Lab059.executor": "Run",
+    "Python.Lab060.executor": "Run",
+    "Python.Lab061.executor": "Run",
     "Python.Task_01.executor": "Run",
     "Python.Task_02.executor": "Run",
     "Python.Task_03.executor": "Run",
@@ -253,7 +259,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718328788006</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Added new file">
+      <option name="closed" value="true" />
+      <created>1718332439728</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1718332439728</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
