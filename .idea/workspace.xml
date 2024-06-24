@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3e489c6-7ee7-4d8c-81bb-4f5ba8f96e38" name="Changes" comment="Added new file">
-      <change afterPath="$PROJECT_DIR$/Task_21Jun2024/Task_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_21Jun2024/Task_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_21Jun2024/Task_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_21Jun2024/Task_04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_21Jun2024/Task_05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_24Jun2024/Lab087.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_24Jun2024/Lab088.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_24Jun2024/Lab089.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_24Jun2024/Lab090.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_24Jun2024/Lab091.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_24Jun2024/Lab092.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_24Jun2024/Lab093.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_24Jun2024/Lab094.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_24Jun2024/Lab095.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -124,6 +128,13 @@
     "Python.Lab084.executor": "Run",
     "Python.Lab085.executor": "Run",
     "Python.Lab086.executor": "Run",
+    "Python.Lab087.executor": "Run",
+    "Python.Lab088.executor": "Run",
+    "Python.Lab089.executor": "Run",
+    "Python.Lab090.executor": "Run",
+    "Python.Lab091.executor": "Run",
+    "Python.Lab092.executor": "Run",
+    "Python.Lab093.executor": "Run",
     "Python.Task1.executor": "Run",
     "Python.Task2.executor": "Run",
     "Python.Task_01.executor": "Run",
@@ -332,7 +343,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718938051318</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Added new file">
+      <option name="closed" value="true" />
+      <created>1718938971342</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1718938971342</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
