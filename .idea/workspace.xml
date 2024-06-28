@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3e489c6-7ee7-4d8c-81bb-4f5ba8f96e38" name="Changes" comment="Added new file">
-      <change afterPath="$PROJECT_DIR$/11_26Jun2024/Lab094.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_26Jun2024/Lab095.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_26Jun2024/Lab096.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_26Jun2024/Lab097.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_26Jun2024/Lab098.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_26Jun2024/Lab099.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_26Jun2024/Lab100.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PyLearning3xATB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyLearning3xATB.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_28Jun2024/Lab101.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_28Jun2024/Lab102.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_28Jun2024/Lab103.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_28Jun2024/Lab104.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_28Jun2024/Lab105.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_28Jun2024/Lab106.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_28Jun2024/Lab107.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_28Jun2024/Lab108.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_28Jun2024/Lab109.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -141,6 +141,14 @@
     "Python.Lab097.executor": "Run",
     "Python.Lab098.executor": "Run",
     "Python.Lab099.executor": "Run",
+    "Python.Lab100.executor": "Run",
+    "Python.Lab101.executor": "Run",
+    "Python.Lab102.executor": "Run",
+    "Python.Lab103.executor": "Run",
+    "Python.Lab104.executor": "Run",
+    "Python.Lab106.executor": "Run",
+    "Python.Lab107.executor": "Run",
+    "Python.Lab108.executor": "Run",
     "Python.Task1.executor": "Run",
     "Python.Task2.executor": "Run",
     "Python.Task_01.executor": "Run",
@@ -365,7 +373,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719196923508</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Added new file">
+      <option name="closed" value="true" />
+      <created>1719428517133</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1719428517133</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
