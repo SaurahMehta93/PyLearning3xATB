@@ -5,22 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3e489c6-7ee7-4d8c-81bb-4f5ba8f96e38" name="Changes" comment="Added new file">
-      <change afterPath="$PROJECT_DIR$/14_03Jul2024/Lab123.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_03Jul2024/Lab124.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_03Jul2024/Lab125.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_03Jul2024/Lab126.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_03Jul2024/Lab127.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_03Jul2024/Lab128.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_03Jul2024/Lab129.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_03Jul2024/Lab130.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_03Jul2024/Lab131.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_03Jul2024/Lab132.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_03Jul2024/Lab133.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_03Jul2024/Lab134.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_03Jul2024/Lab135.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_03Jul2024/TD.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_03Jul2024/read_file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_03Jul2024/test_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_05Jul2024/APITesting.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_05Jul2024/Lab137.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_05Jul2024/Lab138.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_05Jul2024/Lab139.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_05Jul2024/Lab140.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_05Jul2024/Lab141.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_05Jul2024/Lab142.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_05Jul2024/Lab143.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_05Jul2024/Lab144.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_05Jul2024/Lab145.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_05Jul2024/Lab146.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_05Jul2024/Lab147.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_05Jul2024/Lab148.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_05Jul2024/Lab149.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_05Jul2024/Lab150.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_05Jul2024/Learning.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_05Jul2024/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_05Jul2024/test_dir/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_05Jul2024/test_file.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -182,6 +185,11 @@
     "Python.Lab133.executor": "Run",
     "Python.Lab134.executor": "Run",
     "Python.Lab135.executor": "Run",
+    "Python.Lab136.executor": "Run",
+    "Python.Lab137.executor": "Run",
+    "Python.Lab138.executor": "Run",
+    "Python.Lab139.executor": "Run",
+    "Python.Lab140.executor": "Run",
     "Python.Task1.executor": "Run",
     "Python.Task2.executor": "Run",
     "Python.Task_01.executor": "Run",
@@ -248,8 +256,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab129" />
         <item itemvalue="Python.Lab003" />
+        <item itemvalue="Python.Lab129" />
       </list>
     </recent_temporary>
   </component>
@@ -461,7 +469,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719860203964</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Added new file">
+      <option name="closed" value="true" />
+      <created>1720036857503</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1720036857503</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
