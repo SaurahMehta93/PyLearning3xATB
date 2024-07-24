@@ -2,7 +2,7 @@
 
 
 import os
-all_dir = os.listdir('D:\\python_project\\PyLearning3xATB')
+all_dir = os.listdir('/')
 print(all_dir)
 
 # Environment variable
