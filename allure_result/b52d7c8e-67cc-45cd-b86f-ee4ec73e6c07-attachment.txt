@@ -1,0 +1,1 @@
+{'firstname': 'Mary', 'lastname': 'Brown', 'totalprice': 731, 'depositpaid': False, 'bookingdates': {'checkin': '2019-08-06', 'checkout': '2023-09-25'}}
